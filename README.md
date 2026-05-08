@@ -341,8 +341,13 @@ Para reportar problemas o sugerencias, revisa los logs en el terminal y valida:
 
 ## 📝 Licencia
 
-Proyecto desarrollado con fines educativos y de investigación.
+Este proyecto fue desarrollado originalmente con fines educativos y de investigación para el análisis de la brecha de dominio en matrículas salvadoreñas. 
 
+El código fuente y los modelos liberados en este repositorio están bajo la licencia **GNU General Public License v3.0 (GPL-3.0)**. 
+
+Esto significa que eres libre de usar, modificar y distribuir este software, bajo la estricta condición de que cualquier trabajo derivado o versión modificada también debe ser de código abierto y distribuirse bajo esta misma licencia.
+
+Para más detalles, consulta el archivo [LICENSE](LICENSE) incluido en este repositorio.
 ---
 
 **Última actualización:** Abril 2026  
