@@ -106,6 +106,9 @@ PROYECTO PLACAS/
 ### **Pasos de Instalación**
 
 #### 1. **Clonar o descargar el proyecto**
+
+Debido al límite de tamaño de GitHub, las carpetas moldels,data y output_visuals no se encuentra en este repositorio. Puedes descargarlo desde https://drive.google.com/drive/folders/1I3MJ1wtMx_JNavS3nyOr5-qcG5X42L-w?usp=sharing y colocarlo en la carpeta del proyecto antes de ejecutar la inferencia.
+
 ```bash
 # Navegar a la carpeta del proyecto
 cd "c:\Users\usuario\Deskto\PROYECTO PLACAS"
