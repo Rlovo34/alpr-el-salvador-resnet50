@@ -49,7 +49,7 @@ El sistema opera en tres fases integradas:
 
 ```
 PROYECTO PLACAS/
-├── 📄 iniciar_proyecto.py          # Script de entrada principal
+|
 ├── 📄 README.md                    # Este archivo
 ├── 📄 requirements.txt             # Dependencias del proyecto
 │
@@ -107,7 +107,7 @@ PROYECTO PLACAS/
 
 #### 1. **Clonar o descargar el proyecto**
 
-Debido al límite de tamaño de GitHub, las carpetas moldels,data y output_visuals no se encuentra en este repositorio. Puedes descargarlo desde https://drive.google.com/drive/folders/1I3MJ1wtMx_JNavS3nyOr5-qcG5X42L-w?usp=sharing y colocarlo en la carpeta del proyecto antes de ejecutar la inferencia.
+"Debido al límite de tamaño de GitHub, las carpetas moldels,data y output_visuals no se encuentra en este repositorio. Puedes descargarlo desde: https://drive.google.com/drive/folders/1I3MJ1wtMx_JNavS3nyOr5-qcG5X42L-w?usp=sharing y colocarlo en la carpeta del proyecto antes de ejecutar la inferencia."
 
 ```bash
 # Navegar a la carpeta del proyecto
