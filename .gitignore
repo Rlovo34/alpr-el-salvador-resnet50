@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
+
+# Datos e Imágenes masivas 
+data/processed/
+data/raw/
+output_visuals/
+
+# Modelo Pesados
+models/*.h5
