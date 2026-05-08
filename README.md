@@ -8,7 +8,7 @@ Sistema integral de reconocimiento óptico de caracteres (OCR) especializado en 
 - Preprocesamiento inteligente mediante filtros morfológicos Black-Hat y umbralización de Otsu
 - Red neuronal convolucional ResNet50 transferida y refinada
 - Segmentación de caracteres adaptativos
-- Clasificación de 30 clases (dígitos 0-9 y letras A-Z)
+- Clasificación de 36 clases (dígitos 0-9 y letras A-Z)
 - Soporte para dataset sintético binario y datos reales de validación
 
 ---
